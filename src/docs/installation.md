@@ -35,4 +35,4 @@ Alternatively, you can install DocGen globally with NPM (Node Package Manager).
 
 ## Direct Download
 
-You can [download](https://github.com/mtmacdonald/docgen/tags) the DocGen source code directly from Github.
+You can [download](https://github.com/inkit/docgen/tags) the DocGen source code directly from Github.
